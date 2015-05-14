@@ -131,6 +131,12 @@ body {
 }
 
 /* Color */
+.carousel-indicators .active {
+	background-color: black;
+}
+.carousel-indicators > li {
+	border: 1px solid black;
+}
 
 h1 {
 	color:   #00308F;
