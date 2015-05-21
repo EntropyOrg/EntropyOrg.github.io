@@ -89,6 +89,10 @@ body {
   letter-spacing: -1px;
 }
 
+.github-fork-banner > img {
+  display: none; /* small screens will not display */
+}
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
@@ -121,6 +125,15 @@ body {
 
   .featurette-heading {
     font-size: 50px;
+  }
+
+  .github-fork-banner > img {
+    display: inline;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 30;
   }
 }
 
