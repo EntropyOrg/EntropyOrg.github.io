@@ -299,7 +299,7 @@ multimarkdown: 1
 
 # theme plugin
 # name of theme to enable
-theme: goldtype
+theme: monochrome
 
 # websetup plugin
 # list of plugins that cannot be enabled/disabled via the web interface
