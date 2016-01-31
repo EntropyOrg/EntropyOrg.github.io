@@ -1,0 +1,1227 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://entropyorg.github.io//recentchanges/</link>
+<description>EntropyOrg</description>
+<item>
+
+	<title>zaki.mughal: change to EntropyOrg.setup on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_61571a71be390e58c776095f3b2c9857f24fe92c/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-61571a71be390e58c776095f3b2c9857f24fe92c</link>
+
+	<pubDate>Sun, 31 Jan 2016 18:27:43 +0000</pubDate>
+	<dcterms:modified>2016-01-31T18:27:43Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-61571a71be390e58c776095f3b2c9857f24fe92c&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+EntropyOrg.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:27:43 PM 01/31/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Remove ikiwiki trail plugin&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 61571a71be390e58c776095f3b2c9857f24fe92c --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to .travis.yml .travisdeploykey.enc .travisdeploykey.pub EntropyOrg.setup on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_32d00ed8718bb8ecef38388461033202895b9679/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-32d00ed8718bb8ecef38388461033202895b9679</link>
+
+	<pubDate>Sun, 31 Jan 2016 18:23:40 +0000</pubDate>
+	<dcterms:modified>2016-01-31T18:23:40Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-32d00ed8718bb8ecef38388461033202895b9679&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+.travis.yml
+
+.travisdeploykey.enc
+
+.travisdeploykey.pub
+
+EntropyOrg.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:23:40 PM 01/31/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Start using ikiwiki + Travis-CI&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 32d00ed8718bb8ecef38388461033202895b9679 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html style/carousel.css on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_8fcd9d514277420ee61f2361bc951fad3380e39f/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-8fcd9d514277420ee61f2361bc951fad3380e39f</link>
+
+	<pubDate>Thu, 21 May 2015 06:42:44 +0000</pubDate>
+	<dcterms:modified>2015-05-21T06:42:44Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-8fcd9d514277420ee61f2361bc951fad3380e39f&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:42:44 AM 05/21/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+do not display the GitHub fork banner on smaller screens&lt;br /&gt;
+
+
+
+
+
+It interferes with the nav menu button on the right edge.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 8fcd9d514277420ee61f2361bc951fad3380e39f --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_b0ed127606e22f17608c4e553ed691e9e26af39e/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-b0ed127606e22f17608c4e553ed691e9e26af39e</link>
+
+	<pubDate>Thu, 14 May 2015 13:15:11 +0000</pubDate>
+	<dcterms:modified>2015-05-14T13:15:11Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-b0ed127606e22f17608c4e553ed691e9e26af39e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;01:15:11 PM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+make the P::G::G carousel slide use the same button text as the other slides&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- b0ed127606e22f17608c4e553ed691e9e26af39e --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_517d0daf128901eba689bf3946e57d86f2a387ad/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-517d0daf128901eba689bf3946e57d86f2a387ad</link>
+
+	<pubDate>Thu, 14 May 2015 12:09:32 +0000</pubDate>
+	<dcterms:modified>2015-05-14T12:09:32Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-517d0daf128901eba689bf3946e57d86f2a387ad&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:09:32 PM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add a GitHub ribbon&lt;br /&gt;
+
+
+
+
+
+From &amp;lt;https://github.com/blog/273-github-ribbons&amp;gt;.&lt;br /&gt;
+
+
+
+
+
+Must have z-index higher than the navbar.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 517d0daf128901eba689bf3946e57d86f2a387ad --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_873c4b0247c3caa4bfb8720459baef7d10260d93/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-873c4b0247c3caa4bfb8720459baef7d10260d93</link>
+
+	<pubDate>Thu, 14 May 2015 09:39:33 +0000</pubDate>
+	<dcterms:modified>2015-05-14T09:39:33Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-873c4b0247c3caa4bfb8720459baef7d10260d93&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:39:33 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+PDL logo is not in img-circle class&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 873c4b0247c3caa4bfb8720459baef7d10260d93 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/project/pdl.png image/project/pdl.svg on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_6450208a109d88f8a460b57b01ddec198e7efd3e/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-6450208a109d88f8a460b57b01ddec198e7efd3e</link>
+
+	<pubDate>Thu, 14 May 2015 09:38:17 +0000</pubDate>
+	<dcterms:modified>2015-05-14T09:38:17Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-6450208a109d88f8a460b57b01ddec198e7efd3e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/project/pdl.png
+
+image/project/pdl.svg
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;09:38:17 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+higher quality PDL logo&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 6450208a109d88f8a460b57b01ddec198e7efd3e --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/iperl-demo-pv-molecule-viewer.png index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_047c91ff5995cec0facceae992d392c41d6cebc1/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-047c91ff5995cec0facceae992d392c41d6cebc1</link>
+
+	<pubDate>Thu, 14 May 2015 08:37:53 +0000</pubDate>
+	<dcterms:modified>2015-05-14T08:37:53Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-047c91ff5995cec0facceae992d392c41d6cebc1&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/iperl-demo-pv-molecule-viewer.png
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;08:37:53 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+use a molecule viewer example for IPerl&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 047c91ff5995cec0facceae992d392c41d6cebc1 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_88741a09387420df6ab4a949da4ef963c9156012/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-88741a09387420df6ab4a949da4ef963c9156012</link>
+
+	<pubDate>Thu, 14 May 2015 05:50:19 +0000</pubDate>
+	<dcterms:modified>2015-05-14T05:50:19Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-88741a09387420df6ab4a949da4ef963c9156012&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:50:19 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+make carousel-indicator colours black against white background&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 88741a09387420df6ab4a949da4ef963c9156012 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.svg index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_74608cf48f602c611374fde5fca2ef2d03d3f4c4/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-74608cf48f602c611374fde5fca2ef2d03d3f4c4</link>
+
+	<pubDate>Thu, 14 May 2015 00:09:47 +0000</pubDate>
+	<dcterms:modified>2015-05-14T00:09:47Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-74608cf48f602c611374fde5fca2ef2d03d3f4c4&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/pdl-3dgrid-example.svg
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:09:47 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+use SVG for pdl-3dgrid-example instead of PNG&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 74608cf48f602c611374fde5fca2ef2d03d3f4c4 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.pl on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_c86c9798b9602d1b956a4ccbfd88fe247b2dba44/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-c86c9798b9602d1b956a4ccbfd88fe247b2dba44</link>
+
+	<pubDate>Thu, 14 May 2015 00:09:31 +0000</pubDate>
+	<dcterms:modified>2015-05-14T00:09:31Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-c86c9798b9602d1b956a4ccbfd88fe247b2dba44&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/pdl-3dgrid-example.pl
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:09:31 AM 05/14/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add code to generate pdl-3dgrid-example&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- c86c9798b9602d1b956a4ccbfd88fe247b2dba44 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_0af17d5a122e71c8a8d12de7dd6300c896ddbef8/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-0af17d5a122e71c8a8d12de7dd6300c896ddbef8</link>
+
+	<pubDate>Wed, 13 May 2015 23:34:26 +0000</pubDate>
+	<dcterms:modified>2015-05-13T23:34:26Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-0af17d5a122e71c8a8d12de7dd6300c896ddbef8&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;11:34:26 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update project name in navbar&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0af17d5a122e71c8a8d12de7dd6300c896ddbef8 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_0384b709bf11f8e239ed02683baa7d8046bb6e4a/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-0384b709bf11f8e239ed02683baa7d8046bb6e4a</link>
+
+	<pubDate>Wed, 13 May 2015 22:56:48 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:56:48Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-0384b709bf11f8e239ed02683baa7d8046bb6e4a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:56:48 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update title&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0384b709bf11f8e239ed02683baa7d8046bb6e4a --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to .gitignore on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_a7f7a3cf020440b48394d71dce0544e3faa6a67d/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-a7f7a3cf020440b48394d71dce0544e3faa6a67d</link>
+
+	<pubDate>Wed, 13 May 2015 22:55:34 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:55:34Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-a7f7a3cf020440b48394d71dce0544e3faa6a67d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+.gitignore
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:55:34 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add .gitignore&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a7f7a3cf020440b48394d71dce0544e3faa6a67d --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_685dee85eba5578ac768e955a66119fde42192f6/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-685dee85eba5578ac768e955a66119fde42192f6</link>
+
+	<pubDate>Wed, 13 May 2015 22:50:50 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:50:50Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-685dee85eba5578ac768e955a66119fde42192f6&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:50:50 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update color: h1 red -&amp;gt; blue&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 685dee85eba5578ac768e955a66119fde42192f6 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.png index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_fd17d3d68ad31ab3012f3222beb887d7e6d7c963/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-fd17d3d68ad31ab3012f3222beb887d7e6d7c963</link>
+
+	<pubDate>Wed, 13 May 2015 22:50:30 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:50:30Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-fd17d3d68ad31ab3012f3222beb887d7e6d7c963&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/pdl-3dgrid-example.png
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:50:30 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+use 3D grid image for PDL carousel item&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- fd17d3d68ad31ab3012f3222beb887d7e6d7c963 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_1da44887f1f9bb004bc30b6b7400f00cb63ad17a/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-1da44887f1f9bb004bc30b6b7400f00cb63ad17a</link>
+
+	<pubDate>Wed, 13 May 2015 22:43:48 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:43:48Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-1da44887f1f9bb004bc30b6b7400f00cb63ad17a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:43:48 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+update colour styles&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 1da44887f1f9bb004bc30b6b7400f00cb63ad17a --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_75bc00e1dbfade0169ba0f794c8b4e6a69504b7c/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-75bc00e1dbfade0169ba0f794c8b4e6a69504b7c</link>
+
+	<pubDate>Wed, 13 May 2015 22:43:37 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:43:37Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-75bc00e1dbfade0169ba0f794c8b4e6a69504b7c&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:43:37 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+centre carousel images&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 75bc00e1dbfade0169ba0f794c8b4e6a69504b7c --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_aaa9e693c088f1b8760f8d4bd006029b8fcb1064/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-aaa9e693c088f1b8760f8d4bd006029b8fcb1064</link>
+
+	<pubDate>Wed, 13 May 2015 22:27:53 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:27:53Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-aaa9e693c088f1b8760f8d4bd006029b8fcb1064&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:27:53 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+remove the featurettes&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- aaa9e693c088f1b8760f8d4bd006029b8fcb1064 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_fa4714eef95dbfe11d31790b4470073c80b36301/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-fa4714eef95dbfe11d31790b4470073c80b36301</link>
+
+	<pubDate>Wed, 13 May 2015 22:26:23 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:26:23Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-fa4714eef95dbfe11d31790b4470073c80b36301&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+index.html
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:26:23 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+use images on frontpage&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- fa4714eef95dbfe11d31790b4470073c80b36301 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_13f5f2fb2cab633ac9da4d787dc51526a6178ba2/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2</link>
+
+	<pubDate>Wed, 13 May 2015 22:26:02 +0000</pubDate>
+	<dcterms:modified>2015-05-13T22:26:02Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/iperl-demo.png
+
+image/onion.png
+
+image/pdl-book-example.png
+
+image/pdl-graphics-gnuplot.pl
+
+image/pdl-graphics-gnuplot.svg
+
+image/project/bioperl.png
+
+image/project/pdl.png
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:26:02 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add images&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 13f5f2fb2cab633ac9da4d787dc51526a6178ba2 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_4e644c1ac613fee9bf93a783fdbc30f306f8e874/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-4e644c1ac613fee9bf93a783fdbc30f306f8e874</link>
+
+	<pubDate>Wed, 01 Apr 2015 06:06:05 +0000</pubDate>
+	<dcterms:modified>2015-04-01T06:06:05Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-4e644c1ac613fee9bf93a783fdbc30f306f8e874&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+bower.json
+
+index.html
+
+style/carousel.css
+
+tool/bower-run
+
+vendor/bootstrap/bootstrap.css
+
+vendor/bootstrap/bootstrap.js
+
+vendor/bootstrap/bootstrap.less
+
+vendor/bootstrap/glyphicons-halflings-regular.eot
+
+vendor/bootstrap/glyphicons-halflings-regular.svg
+
+vendor/bootstrap/glyphicons-halflings-regular.ttf
+
+...
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:06:05 AM 04/01/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial template&lt;br /&gt;
+
+
+
+
+
+Taken from Bootstrap example at &amp;lt;http://getbootstrap.com/examples/carousel/&amp;gt;.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 4e644c1ac613fee9bf93a783fdbc30f306f8e874 --&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>
