@@ -42,7 +42,6 @@ rcs: git
 add_plugins:
 - goodstuff
 - theme
-- trail
 - sidebar
 - autoindex
 - txt
