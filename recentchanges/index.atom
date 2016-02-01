@@ -17,7 +17,77 @@
 
 <subtitle type="html">EntropyOrg</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T00:59:08Z</updated>
+<updated>2016-02-01T03:54:10Z</updated>
+<entry>
+	<title>change to EntropyOrg.setup index local.css project sidebar templates/page.tmpl tutorial on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_bb98d1f91dc34d3d0fbbd790b85427d8cdee2953/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-bb98d1f91dc34d3d0fbbd790b85427d8cdee2953"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T03:54:10Z</updated>
+	<published>2016-02-01T03:54:10Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-bb98d1f91dc34d3d0fbbd790b85427d8cdee2953&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+EntropyOrg.setup
+
+index
+
+local.css
+
+project
+
+sidebar
+
+templates/page.tmpl
+
+tutorial
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;03:54:10 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Improve CSS and start site layout&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- bb98d1f91dc34d3d0fbbd790b85427d8cdee2953 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to EntropyOrg.setup index.html index local.css templates/page.tmpl website website/templates on EntropyOrg</title>
 

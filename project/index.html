@@ -8,21 +8,21 @@
 		<meta name="description" content="Personal Website" />
 		<meta name="author" content="Julian Andres Klode" />
 
-		<title>EntropyOrg/ikiwiki/pagespec/sorting</title>
+		<title>EntropyOrg/Projects</title>
 
-		<meta name="robots" content="noindex, follow" />
+		
 
 		<!-- ikiwiki CSS -->
-		<link href="../../../style.css" rel="stylesheet" />
+		<link href="../style.css" rel="stylesheet" />
 
 		<!-- Custom styles for this template -->
 		<link href="style/carousel.css" rel="stylesheet">
 
 		<!-- Bootstrap core CSS -->
-		<link href="../../../vendor/bootstrap/bootstrap.css" rel="stylesheet" />
+		<link href="../vendor/bootstrap/bootstrap.css" rel="stylesheet" />
 
 		<!-- Custom styles for this template -->
-		<link href="../../../local.css" rel="stylesheet" />
+		<link href="../local.css" rel="stylesheet" />
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -43,14 +43,14 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="../../..//">EntropyOrg</a>
+							<a class="navbar-brand" href="..//">EntropyOrg</a>
 						</div>
 						<div id="navbar" class="collapse navbar-collapse">
 							
 							
 							<ul class="nav navbar-nav">
-    <li><a href="../../../project/">Projects</a></li>
-    <li><a href="../../../tutorial/">Tutorials</a></li>
+    <li><span class="selflink">Projects</span></li>
+    <li><a href="../tutorial/">Tutorials</a></li>
 </ul>
 
 							
@@ -64,28 +64,15 @@
 		<div class="container">
 
 			<header class="page-header">
-				<h1>sorting</h1>
+				<h1>Projects</h1>
 			</header>
 
-			<p>Some <a href="../../directive/">directives</a> that use
-<a href="../">PageSpecs</a> allow
-specifying the order that matching pages are shown in. The following sort
-orders can be specified.</p>
+			<h1 id="perl5">Perl 5</h1>
 
 <ul>
-<li><p><code>age</code> - List pages from the most recently created to the oldest.</p></li>
-<li><p><code>mtime</code> - List pages with the most recently modified first.</p></li>
-<li><p><code>title</code> - Order by title (page name), e.g. "z/a a/b a/c"</p></li>
-<li><p><code>path</code> - Order by page name including parents, e.g. "a/b a/c z/a"</p></li>
-<li><p><code>meta(title)</code> - Order according to the <code>[[!meta  title="foo" sortas="bar"]]</code>
-or <code>[[!meta  title="foo"]]</code> <a href="../../directive/">directive</a>, or the page name if no
-full title was set. <code>meta(author)</code>, <code>meta(date)</code>, <code>meta(updated)</code>, etc.
-also work.</p></li>
+<li>Statistics::NiceR</li>
+<li>Devel::IPerl</li>
 </ul>
-
-<p>In addition, you can combine several sort orders and/or reverse the order of
-sorting, with a string like <code>age -title</code> (which would sort by age, then by
-title in reverse order if two pages have the same age).</p>
 
 
 		</div> <!-- /container -->
@@ -105,8 +92,8 @@ title in reverse order if two pages have the same age).</p>
 		<!-- Bootstrap core JavaScript
 	================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="../../../vendor/jquery/jquery.js"></script>
-	<script src="../../../vendor/bootstrap/bootstrap.js"></script>
+	<script src="../vendor/jquery/jquery.js"></script>
+	<script src="../vendor/bootstrap/bootstrap.js"></script>
 
 	</body>
 </html>
