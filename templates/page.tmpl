@@ -8,21 +8,21 @@
     <meta name="description" content="Personal Website" />
     <meta name="author" content="Julian Andres Klode" />
 
-    <title>EntropyOrg/image</title>
+    <title><TMPL_LOOP NAME="PARENTLINKS"><TMPL_VAR NAME=PAGE>/</TMPL_LOOP><TMPL_VAR TITLE></title>
 
-    
+    <TMPL_IF NAME="META"><TMPL_VAR META></TMPL_IF>
 
     <!-- ikiwiki CSS -->
-    <link href="../style.css" rel="stylesheet" />
+    <link href="<TMPL_VAR BASEURL>style.css" rel="stylesheet" />
 
     <!-- Custom styles for this template -->
     <link href="style/carousel.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link href="../vendor/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="<TMPL_VAR BASEURL>vendor/bootstrap/bootstrap.css" rel="stylesheet" />
 
     <!-- Custom styles for this template -->
-    <link href="../local.css" rel="stylesheet" />
+    <link href="<TMPL_VAR BASEURL>local.css" rel="stylesheet" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -44,14 +44,23 @@
 		    <span class="icon-bar"></span>
 		    <span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="../">EntropyOrg</a>
+		  <a class="navbar-brand" href="<TMPL_VAR BASEURL>"><TMPL_VAR WIKINAME></a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 		  <ul class="nav navbar-nav">
-		    
+		    <TMPL_LOOP BOOTMENU>
+			<TMPL_IF FIRSTNAV>
+			    <li <TMPL_IF ACTIVE>class="active"</TMPL_IF>><a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a></li>
+			</TMPL_IF>
+		    </TMPL_LOOP>
 		  </ul>
 		  <ul class="nav navbar-nav navbar-right">
-		    
+		    <TMPL_LOOP BOOTMENU>
+			<TMPL_IF FIRSTNAV>
+			<TMPL_ELSE>
+			    <li <TMPL_IF ACTIVE>class="active"</TMPL_IF>><a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a></li>
+			</TMPL_IF>
+		    </TMPL_LOOP>
 		  </ul>
 		</div>
 	      </div>
@@ -63,34 +72,10 @@
 
 
           <header class="page-header">
-            <h1>image</h1>
+            <h1><TMPL_VAR TITLE></h1>
           </header>
 
-            <div class='map'>
-<ul>
-<li><a href="./iperl-demo-pv-molecule-viewer.png" class="mapitem">iperl-demo-pv-molecule-viewer.png</a>
-</li>
-<li><a href="./iperl-demo.png" class="mapitem">iperl-demo.png</a>
-</li>
-<li><a href="./onion.png" class="mapitem">onion.png</a>
-</li>
-<li><a href="./pdl-3dgrid-example.pl" class="mapitem">pdl-3dgrid-example.pl</a>
-</li>
-<li><a href="./pdl-3dgrid-example.png" class="mapitem">pdl-3dgrid-example.png</a>
-</li>
-<li><a href="./pdl-3dgrid-example.svg" class="mapitem">pdl-3dgrid-example.svg</a>
-</li>
-<li><a href="./pdl-book-example.png" class="mapitem">pdl-book-example.png</a>
-</li>
-<li><a href="./pdl-graphics-gnuplot.pl" class="mapitem">pdl-graphics-gnuplot.pl</a>
-</li>
-<li><a href="./pdl-graphics-gnuplot.svg" class="mapitem">pdl-graphics-gnuplot.svg</a>
-</li>
-<li><a href="./project/" class="mapitem">project</a>
-</li>
-</ul>
-</div>
-
+            <TMPL_VAR CONTENT>
 
     </div> <!-- /container -->
 
@@ -109,8 +94,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="../vendor/jquery/jquery.js"></script>
-    <script src="../vendor/bootstrap/bootstrap.js"></script>
+    <script src="<TMPL_VAR BASEURL>vendor/jquery/jquery.js"></script>
+    <script src="<TMPL_VAR BASEURL>vendor/bootstrap/bootstrap.js"></script>
 
   </body>
 </html>
