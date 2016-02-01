@@ -17,7 +17,65 @@
 
 <subtitle type="html">Entropy</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T04:57:56Z</updated>
+<updated>2016-02-01T05:08:35Z</updated>
+<entry>
+	<title>change to templates/page.tmpl on Entropy</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_cb9c0bb2afdf8af3a96f6371dbbc320500009e40/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-cb9c0bb2afdf8af3a96f6371dbbc320500009e40"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T05:08:35Z</updated>
+	<published>2016-02-01T05:08:35Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-cb9c0bb2afdf8af3a96f6371dbbc320500009e40&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+templates/page.tmpl
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:08:35 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Do not use the the parent links in the &amp;lt;title&amp;gt;&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- cb9c0bb2afdf8af3a96f6371dbbc320500009e40 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to EntropyOrg.setup on Entropy</title>
 
