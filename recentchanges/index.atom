@@ -17,7 +17,181 @@
 
 <subtitle type="html">EntropyOrg</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T00:29:57Z</updated>
+<updated>2016-02-01T00:31:07Z</updated>
+<entry>
+	<title>change to image/project on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_bfb0c31c24f88e471c75b09e65ccd71984585a21/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-bfb0c31c24f88e471c75b09e65ccd71984585a21"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T00:31:07Z</updated>
+	<published>2016-02-01T00:31:07Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-bfb0c31c24f88e471c75b09e65ccd71984585a21&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/project
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:31:07 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page image/project&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- bfb0c31c24f88e471c75b09e65ccd71984585a21 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to image on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_2463dccd479c2e5b6536f38e568a6edd0ca848b4/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-2463dccd479c2e5b6536f38e568a6edd0ca848b4"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T00:31:06Z</updated>
+	<published>2016-02-01T00:31:06Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-2463dccd479c2e5b6536f38e568a6edd0ca848b4&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:31:06 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page image&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 2463dccd479c2e5b6536f38e568a6edd0ca848b4 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to tool on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_a0a6cb699e40eb4660f059c855b30d9fb94ab495/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-a0a6cb699e40eb4660f059c855b30d9fb94ab495"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T00:31:05Z</updated>
+	<published>2016-02-01T00:31:05Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-a0a6cb699e40eb4660f059c855b30d9fb94ab495&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+tool
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:31:05 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page tool&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a0a6cb699e40eb4660f059c855b30d9fb94ab495 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to vendor/bootstrap on EntropyOrg</title>
 
