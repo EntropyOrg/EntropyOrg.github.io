@@ -5,10 +5,62 @@
 <channel>
 <title>RecentChanges</title>
 <link>http://entropyorg.github.io//recentchanges/</link>
-<description>EntropyOrg</description>
+<description>Entropy</description>
 <item>
 
-	<title>zaki.mughal: change to local.css on EntropyOrg</title>
+	<title>zaki.mughal: change to EntropyOrg.setup on Entropy</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5</link>
+
+	<pubDate>Mon, 01 Feb 2016 04:57:56 +0000</pubDate>
+	<dcterms:modified>2016-02-01T04:57:56Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+EntropyOrg.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:57:56 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Change wikiname: s/EntropyOrg/Entropy/&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5 --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to local.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -70,7 +122,7 @@ active link.&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to templates/page.tmpl on EntropyOrg</title>
+	<title>zaki.mughal: change to templates/page.tmpl on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -132,7 +184,7 @@ Improve page template&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/jquery/jquery.js on EntropyOrg</title>
+	<title>zaki.mughal: change to vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/jquery/jquery.js on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -188,7 +240,7 @@ Update vendor code&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -250,7 +302,7 @@ Improve carousel style&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to templates/page.tmpl on EntropyOrg</title>
+	<title>zaki.mughal: change to templates/page.tmpl on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -302,7 +354,7 @@ Add base URL to carousel.css&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to templates/page.tmpl on EntropyOrg</title>
+	<title>zaki.mughal: change to templates/page.tmpl on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -354,7 +406,7 @@ Remove slash from base URL in template&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to EntropyOrg.setup index local.css project sidebar templates/page.tmpl tutorial on EntropyOrg</title>
+	<title>zaki.mughal: change to EntropyOrg.setup index local.css project sidebar templates/page.tmpl tutorial on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -418,7 +470,7 @@ Improve CSS and start site layout&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to EntropyOrg.setup index.html index local.css templates/page.tmpl website website/templates on EntropyOrg</title>
+	<title>zaki.mughal: change to EntropyOrg.setup index.html index local.css templates/page.tmpl website website/templates on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -482,7 +534,7 @@ Modify template to stick carousel in index and use vendor/ CSS/JS&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to templates/page.tmpl on EntropyOrg</title>
+	<title>zaki.mughal: change to templates/page.tmpl on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -550,7 +602,7 @@ From &amp;lt;https://anonscm.debian.org/cgit/users/jak/website.git/&amp;gt;:&lt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/project on EntropyOrg</title>
+	<title>zaki.mughal: change to image/project on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -602,7 +654,7 @@ creating index page image/project&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image on EntropyOrg</title>
+	<title>zaki.mughal: change to image on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -654,7 +706,7 @@ creating index page image&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to tool on EntropyOrg</title>
+	<title>zaki.mughal: change to tool on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -706,7 +758,7 @@ creating index page tool&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to vendor/bootstrap on EntropyOrg</title>
+	<title>zaki.mughal: change to vendor/bootstrap on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -758,7 +810,7 @@ creating index page vendor/bootstrap&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to website on EntropyOrg</title>
+	<title>zaki.mughal: change to website on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -810,7 +862,7 @@ creating index page website&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to vendor on EntropyOrg</title>
+	<title>zaki.mughal: change to vendor on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -862,7 +914,7 @@ creating index page vendor&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to website/templates on EntropyOrg</title>
+	<title>zaki.mughal: change to website/templates on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -914,7 +966,7 @@ creating index page website/templates&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to vendor/jquery on EntropyOrg</title>
+	<title>zaki.mughal: change to vendor/jquery on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -966,7 +1018,7 @@ creating index page vendor/jquery&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style on EntropyOrg</title>
+	<title>zaki.mughal: change to style on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1018,7 +1070,7 @@ creating index page style&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to EntropyOrg.setup on EntropyOrg</title>
+	<title>zaki.mughal: change to EntropyOrg.setup on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1070,7 +1122,7 @@ Change the ikiwiki theme to monochrome&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to EntropyOrg.setup on EntropyOrg</title>
+	<title>zaki.mughal: change to EntropyOrg.setup on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1122,7 +1174,7 @@ Remove ikiwiki trail plugin&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to .travis.yml .travisdeploykey.enc .travisdeploykey.pub EntropyOrg.setup on EntropyOrg</title>
+	<title>zaki.mughal: change to .travis.yml .travisdeploykey.enc .travisdeploykey.pub EntropyOrg.setup on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1180,7 +1232,7 @@ Start using ikiwiki + Travis-CI&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1240,7 +1292,7 @@ It interferes with the nav menu button on the right edge.&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1292,7 +1344,7 @@ make the P::G::G carousel slide use the same button text as the other slides&lt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1356,7 +1408,7 @@ Must have z-index higher than the navbar.&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1408,7 +1460,7 @@ PDL logo is not in img-circle class&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/project/pdl.png image/project/pdl.svg on EntropyOrg</title>
+	<title>zaki.mughal: change to image/project/pdl.png image/project/pdl.svg on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1462,7 +1514,7 @@ higher quality PDL logo&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/iperl-demo-pv-molecule-viewer.png index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to image/iperl-demo-pv-molecule-viewer.png index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1516,7 +1568,7 @@ use a molecule viewer example for IPerl&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1568,7 +1620,7 @@ make carousel-indicator colours black against white background&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/pdl-3dgrid-example.svg index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.svg index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1622,7 +1674,7 @@ use SVG for pdl-3dgrid-example instead of PNG&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/pdl-3dgrid-example.pl on EntropyOrg</title>
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.pl on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1674,7 +1726,7 @@ add code to generate pdl-3dgrid-example&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1726,7 +1778,7 @@ update project name in navbar&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1778,7 +1830,7 @@ update title&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to .gitignore on EntropyOrg</title>
+	<title>zaki.mughal: change to .gitignore on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1830,7 +1882,7 @@ add .gitignore&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1882,7 +1934,7 @@ update color: h1 red -&amp;gt; blue&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/pdl-3dgrid-example.png index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to image/pdl-3dgrid-example.png index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1936,7 +1988,7 @@ use 3D grid image for PDL carousel item&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -1988,7 +2040,7 @@ update colour styles&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to style/carousel.css on EntropyOrg</title>
+	<title>zaki.mughal: change to style/carousel.css on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -2040,7 +2092,7 @@ centre carousel images&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -2092,7 +2144,7 @@ remove the featurettes&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to index.html on EntropyOrg</title>
+	<title>zaki.mughal: change to index.html on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -2144,7 +2196,7 @@ use images on frontpage&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on EntropyOrg</title>
+	<title>zaki.mughal: change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
@@ -2208,7 +2260,7 @@ add images&lt;br /&gt;
 </item>
 <item>
 
-	<title>zaki.mughal: change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on EntropyOrg</title>
+	<title>zaki.mughal: change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on Entropy</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 

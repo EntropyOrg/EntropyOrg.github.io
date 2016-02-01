@@ -6,7 +6,7 @@
 <link href="http://entropyorg.github.io//recentchanges/index.atom" rel="self" type="application/atom+xml"/>
 <author>
 
-<name>EntropyOrg</name>
+<name>Entropy</name>
 
 </author>
 
@@ -15,11 +15,69 @@
 
 <id>http://entropyorg.github.io//recentchanges/</id>
 
-<subtitle type="html">EntropyOrg</subtitle>
+<subtitle type="html">Entropy</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T04:51:53Z</updated>
+<updated>2016-02-01T04:57:56Z</updated>
 <entry>
-	<title>change to local.css on EntropyOrg</title>
+	<title>change to EntropyOrg.setup on Entropy</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:57:56Z</updated>
+	<published>2016-02-01T04:57:56Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+EntropyOrg.setup
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:57:56 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Change wikiname: s/EntropyOrg/Entropy/&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a39d0f62f7f3cb1be05e80180c3e4c60edb8b5f5 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to local.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_a129fb6698cc4c95380f11357089a6fb60ff415d/</id>
 
@@ -87,7 +145,7 @@ active link.&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to templates/page.tmpl on EntropyOrg</title>
+	<title>change to templates/page.tmpl on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_f6cb46bcefd264205ec7256d703fa95c3e25d1aa/</id>
 
@@ -155,7 +213,7 @@ Improve page template&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/jquery/jquery.js on EntropyOrg</title>
+	<title>change to vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/jquery/jquery.js on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_18b1b1008fcaa6d7b8467360dbcaeb23d7434f34/</id>
 
@@ -217,7 +275,7 @@ Update vendor code&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style/carousel.css on EntropyOrg</title>
+	<title>change to style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_cab9a96ff32db9248c93d06167f8303895d1807e/</id>
 
@@ -285,7 +343,7 @@ Improve carousel style&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to templates/page.tmpl on EntropyOrg</title>
+	<title>change to templates/page.tmpl on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_e4613f6f722b4e55f1392324621a25d18102174f/</id>
 
@@ -343,7 +401,7 @@ Add base URL to carousel.css&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to templates/page.tmpl on EntropyOrg</title>
+	<title>change to templates/page.tmpl on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_d614a245acc10881f699ac7a33e12321ae00ab04/</id>
 
@@ -401,7 +459,7 @@ Remove slash from base URL in template&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to EntropyOrg.setup index local.css project sidebar templates/page.tmpl tutorial on EntropyOrg</title>
+	<title>change to EntropyOrg.setup index local.css project sidebar templates/page.tmpl tutorial on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_bb98d1f91dc34d3d0fbbd790b85427d8cdee2953/</id>
 
@@ -471,7 +529,7 @@ Improve CSS and start site layout&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to EntropyOrg.setup index.html index local.css templates/page.tmpl website website/templates on EntropyOrg</title>
+	<title>change to EntropyOrg.setup index.html index local.css templates/page.tmpl website website/templates on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_18a72275bea252543b2f8e181a11a557bf64ccc3/</id>
 
@@ -541,7 +599,7 @@ Modify template to stick carousel in index and use vendor/ CSS/JS&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to templates/page.tmpl on EntropyOrg</title>
+	<title>change to templates/page.tmpl on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_3c72a5bcb2155a9603acc3fb994b3903d2e8d695/</id>
 
@@ -615,7 +673,7 @@ From &amp;lt;https://anonscm.debian.org/cgit/users/jak/website.git/&amp;gt;:&lt;
 
 </entry>
 <entry>
-	<title>change to image/project on EntropyOrg</title>
+	<title>change to image/project on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_bfb0c31c24f88e471c75b09e65ccd71984585a21/</id>
 
@@ -673,7 +731,7 @@ creating index page image/project&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image on EntropyOrg</title>
+	<title>change to image on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_2463dccd479c2e5b6536f38e568a6edd0ca848b4/</id>
 
@@ -731,7 +789,7 @@ creating index page image&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tool on EntropyOrg</title>
+	<title>change to tool on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_a0a6cb699e40eb4660f059c855b30d9fb94ab495/</id>
 
@@ -789,7 +847,7 @@ creating index page tool&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to vendor/bootstrap on EntropyOrg</title>
+	<title>change to vendor/bootstrap on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_76e6adbd9a6f596025778ed182e154a255b1ab56/</id>
 
@@ -847,7 +905,7 @@ creating index page vendor/bootstrap&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to website on EntropyOrg</title>
+	<title>change to website on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_35822ea31dbe1fe682562ff7f8aab48fd5ed9a6c/</id>
 
@@ -905,7 +963,7 @@ creating index page website&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to vendor on EntropyOrg</title>
+	<title>change to vendor on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_1e9ef15411abb37248236463dd8d264b9f6c9430/</id>
 
@@ -963,7 +1021,7 @@ creating index page vendor&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to website/templates on EntropyOrg</title>
+	<title>change to website/templates on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_110ddf1dd57577dc6c1a7b21a81ea220372d1c3d/</id>
 
@@ -1021,7 +1079,7 @@ creating index page website/templates&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to vendor/jquery on EntropyOrg</title>
+	<title>change to vendor/jquery on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_92c2ae0dc6f529a9040f62383da85d833846bc5a/</id>
 
@@ -1079,7 +1137,7 @@ creating index page vendor/jquery&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style on EntropyOrg</title>
+	<title>change to style on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_23e2e9ebfd9320de4e15e466869d631ef9a88ee6/</id>
 
@@ -1137,7 +1195,7 @@ creating index page style&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to EntropyOrg.setup on EntropyOrg</title>
+	<title>change to EntropyOrg.setup on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_3c4f6113aa7f5455120b2b0e2a67dbb90ff34ad6/</id>
 
@@ -1195,7 +1253,7 @@ Change the ikiwiki theme to monochrome&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to EntropyOrg.setup on EntropyOrg</title>
+	<title>change to EntropyOrg.setup on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_61571a71be390e58c776095f3b2c9857f24fe92c/</id>
 
@@ -1253,7 +1311,7 @@ Remove ikiwiki trail plugin&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to .travis.yml .travisdeploykey.enc .travisdeploykey.pub EntropyOrg.setup on EntropyOrg</title>
+	<title>change to .travis.yml .travisdeploykey.enc .travisdeploykey.pub EntropyOrg.setup on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_32d00ed8718bb8ecef38388461033202895b9679/</id>
 
@@ -1317,7 +1375,7 @@ Start using ikiwiki + Travis-CI&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html style/carousel.css on EntropyOrg</title>
+	<title>change to index.html style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_8fcd9d514277420ee61f2361bc951fad3380e39f/</id>
 
@@ -1383,7 +1441,7 @@ It interferes with the nav menu button on the right edge.&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_b0ed127606e22f17608c4e553ed691e9e26af39e/</id>
 
@@ -1441,7 +1499,7 @@ make the P::G::G carousel slide use the same button text as the other slides&lt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_517d0daf128901eba689bf3946e57d86f2a387ad/</id>
 
@@ -1511,7 +1569,7 @@ Must have z-index higher than the navbar.&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_873c4b0247c3caa4bfb8720459baef7d10260d93/</id>
 
@@ -1569,7 +1627,7 @@ PDL logo is not in img-circle class&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/project/pdl.png image/project/pdl.svg on EntropyOrg</title>
+	<title>change to image/project/pdl.png image/project/pdl.svg on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_6450208a109d88f8a460b57b01ddec198e7efd3e/</id>
 
@@ -1629,7 +1687,7 @@ higher quality PDL logo&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/iperl-demo-pv-molecule-viewer.png index.html on EntropyOrg</title>
+	<title>change to image/iperl-demo-pv-molecule-viewer.png index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_047c91ff5995cec0facceae992d392c41d6cebc1/</id>
 
@@ -1689,7 +1747,7 @@ use a molecule viewer example for IPerl&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style/carousel.css on EntropyOrg</title>
+	<title>change to style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_88741a09387420df6ab4a949da4ef963c9156012/</id>
 
@@ -1747,7 +1805,7 @@ make carousel-indicator colours black against white background&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/pdl-3dgrid-example.svg index.html on EntropyOrg</title>
+	<title>change to image/pdl-3dgrid-example.svg index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_74608cf48f602c611374fde5fca2ef2d03d3f4c4/</id>
 
@@ -1807,7 +1865,7 @@ use SVG for pdl-3dgrid-example instead of PNG&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/pdl-3dgrid-example.pl on EntropyOrg</title>
+	<title>change to image/pdl-3dgrid-example.pl on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_c86c9798b9602d1b956a4ccbfd88fe247b2dba44/</id>
 
@@ -1865,7 +1923,7 @@ add code to generate pdl-3dgrid-example&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_0af17d5a122e71c8a8d12de7dd6300c896ddbef8/</id>
 
@@ -1923,7 +1981,7 @@ update project name in navbar&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_0384b709bf11f8e239ed02683baa7d8046bb6e4a/</id>
 
@@ -1981,7 +2039,7 @@ update title&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to .gitignore on EntropyOrg</title>
+	<title>change to .gitignore on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_a7f7a3cf020440b48394d71dce0544e3faa6a67d/</id>
 
@@ -2039,7 +2097,7 @@ add .gitignore&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style/carousel.css on EntropyOrg</title>
+	<title>change to style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_685dee85eba5578ac768e955a66119fde42192f6/</id>
 
@@ -2097,7 +2155,7 @@ update color: h1 red -&amp;gt; blue&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/pdl-3dgrid-example.png index.html on EntropyOrg</title>
+	<title>change to image/pdl-3dgrid-example.png index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_fd17d3d68ad31ab3012f3222beb887d7e6d7c963/</id>
 
@@ -2157,7 +2215,7 @@ use 3D grid image for PDL carousel item&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style/carousel.css on EntropyOrg</title>
+	<title>change to style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_1da44887f1f9bb004bc30b6b7400f00cb63ad17a/</id>
 
@@ -2215,7 +2273,7 @@ update colour styles&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to style/carousel.css on EntropyOrg</title>
+	<title>change to style/carousel.css on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_75bc00e1dbfade0169ba0f794c8b4e6a69504b7c/</id>
 
@@ -2273,7 +2331,7 @@ centre carousel images&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_aaa9e693c088f1b8760f8d4bd006029b8fcb1064/</id>
 
@@ -2331,7 +2389,7 @@ remove the featurettes&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to index.html on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_fa4714eef95dbfe11d31790b4470073c80b36301/</id>
 
@@ -2389,7 +2447,7 @@ use images on frontpage&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on EntropyOrg</title>
+	<title>change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_13f5f2fb2cab633ac9da4d787dc51526a6178ba2/</id>
 
@@ -2459,7 +2517,7 @@ add images&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on EntropyOrg</title>
+	<title>change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on Entropy</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_4e644c1ac613fee9bf93a783fdbc30f306f8e874/</id>
 
