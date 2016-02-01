@@ -17,7 +17,75 @@
 
 <subtitle type="html">EntropyOrg</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T04:00:34Z</updated>
+<updated>2016-02-01T04:16:22Z</updated>
+<entry>
+	<title>change to style/carousel.css on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_cab9a96ff32db9248c93d06167f8303895d1807e/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-cab9a96ff32db9248c93d06167f8303895d1807e"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:16:22Z</updated>
+	<published>2016-02-01T04:16:22Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-cab9a96ff32db9248c93d06167f8303895d1807e&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:16:22 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Improve carousel style&lt;br /&gt;
+
+
+
+
+
+- Adds a shadow around the carousel &amp;lt;h1&amp;gt;&lt;br /&gt;
+
+
+
+- Forces image height to be 500px despite Bootstrap responsive images.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- cab9a96ff32db9248c93d06167f8303895d1807e --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to templates/page.tmpl on EntropyOrg</title>
 
