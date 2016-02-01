@@ -8,6 +8,162 @@
 <description>EntropyOrg</description>
 <item>
 
+	<title>zaki.mughal: change to website/templates on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_110ddf1dd57577dc6c1a7b21a81ea220372d1c3d/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-110ddf1dd57577dc6c1a7b21a81ea220372d1c3d</link>
+
+	<pubDate>Mon, 01 Feb 2016 00:28:44 +0000</pubDate>
+	<dcterms:modified>2016-02-01T00:28:44Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-110ddf1dd57577dc6c1a7b21a81ea220372d1c3d&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+website/templates
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:28:44 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page website/templates&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 110ddf1dd57577dc6c1a7b21a81ea220372d1c3d --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to vendor/jquery on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_92c2ae0dc6f529a9040f62383da85d833846bc5a/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-92c2ae0dc6f529a9040f62383da85d833846bc5a</link>
+
+	<pubDate>Mon, 01 Feb 2016 00:28:43 +0000</pubDate>
+	<dcterms:modified>2016-02-01T00:28:43Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-92c2ae0dc6f529a9040f62383da85d833846bc5a&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+vendor/jquery
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:28:43 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page vendor/jquery&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 92c2ae0dc6f529a9040f62383da85d833846bc5a --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to style on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_23e2e9ebfd9320de4e15e466869d631ef9a88ee6/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-23e2e9ebfd9320de4e15e466869d631ef9a88ee6</link>
+
+	<pubDate>Mon, 01 Feb 2016 00:28:42 +0000</pubDate>
+	<dcterms:modified>2016-02-01T00:28:42Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-23e2e9ebfd9320de4e15e466869d631ef9a88ee6&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;12:28:42 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page style&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 23e2e9ebfd9320de4e15e466869d631ef9a88ee6 --&gt;
+</description>
+
+
+</item>
+<item>
+
 	<title>zaki.mughal: change to EntropyOrg.setup on EntropyOrg</title>
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
