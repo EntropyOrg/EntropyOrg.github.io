@@ -17,7 +17,123 @@
 
 <subtitle type="html">EntropyOrg</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T04:32:53Z</updated>
+<updated>2016-02-01T04:32:56Z</updated>
+<entry>
+	<title>change to node_modules/bower-installer/node_modules/bower/node_modules/mout/src on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_fb0ab3be097ee7f11d895fd56bd4a6765b8f5f90/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-fb0ab3be097ee7f11d895fd56bd4a6765b8f5f90"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:32:56Z</updated>
+	<published>2016-02-01T04:32:56Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-fb0ab3be097ee7f11d895fd56bd4a6765b8f5f90&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+node modules/bower-installer/node modules/bower/node modules/mout/src
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:32:56 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page node_modules/bower-installer/node_modules/bower/node_modules/mout/src&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- fb0ab3be097ee7f11d895fd56bd4a6765b8f5f90 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to node_modules/bower-installer/node_modules/bower/node_modules/update-notifier/node_modules on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_a634736fb8f61f225e64c56a527710dbcbd084cf/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-a634736fb8f61f225e64c56a527710dbcbd084cf"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:32:54Z</updated>
+	<published>2016-02-01T04:32:54Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-a634736fb8f61f225e64c56a527710dbcbd084cf&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+node modules/bower-installer/node modules/bower/node modules/update-notifier/node modules
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:32:54 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating index page node_modules/bower-installer/node_modules/bower/node_modules/update-notifier/node_modules&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- a634736fb8f61f225e64c56a527710dbcbd084cf --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to node_modules/bower-installer/node_modules/bower/node_modules/update-notifier/node_modules/configstore on EntropyOrg</title>
 
@@ -2829,7 +2945,7 @@ remove the featurettes&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to index.html on EntropyOrg</title>
+	<title>change to bower.json image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png index.html style/carousel.css  on EntropyOrg</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_fa4714eef95dbfe11d31790b4470073c80b36301/</id>
 
@@ -2855,7 +2971,27 @@ remove the featurettes&lt;br /&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
+bower.json
+
+image/iperl-demo.png
+
+image/onion.png
+
+image/pdl-book-example.png
+
+image/pdl-graphics-gnuplot.pl
+
+image/pdl-graphics-gnuplot.svg
+
+image/project/bioperl.png
+
+image/project/pdl.png
+
 index.html
+
+style/carousel.css
+
+...
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -2880,160 +3016,6 @@ use images on frontpage&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;!-- fa4714eef95dbfe11d31790b4470073c80b36301 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on EntropyOrg</title>
-
-	<id>http://entropyorg.github.io//recentchanges/change_13f5f2fb2cab633ac9da4d787dc51526a6178ba2/</id>
-
-	<link href="http://entropyorg.github.io/recentchanges/#change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2"/>
-
-	<author><name>zaki.mughal</name></author>
-
-
-
-
-
-	<updated>2015-05-13T22:26:02Z</updated>
-	<published>2015-05-13T22:26:02Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-image/iperl-demo.png
-
-image/onion.png
-
-image/pdl-book-example.png
-
-image/pdl-graphics-gnuplot.pl
-
-image/pdl-graphics-gnuplot.svg
-
-image/project/bioperl.png
-
-image/project/pdl.png
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-zaki.mughal
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:26:02 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-add images&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-&lt;!-- 13f5f2fb2cab633ac9da4d787dc51526a6178ba2 --&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
-	<title>change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on EntropyOrg</title>
-
-	<id>http://entropyorg.github.io//recentchanges/change_4e644c1ac613fee9bf93a783fdbc30f306f8e874/</id>
-
-	<link href="http://entropyorg.github.io/recentchanges/#change-4e644c1ac613fee9bf93a783fdbc30f306f8e874"/>
-
-	<author><name>zaki.mughal</name></author>
-
-
-
-
-
-	<updated>2015-04-01T06:06:05Z</updated>
-	<published>2015-04-01T06:06:05Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-4e644c1ac613fee9bf93a783fdbc30f306f8e874&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-bower.json
-
-index.html
-
-style/carousel.css
-
-tool/bower-run
-
-vendor/bootstrap/bootstrap.css
-
-vendor/bootstrap/bootstrap.js
-
-vendor/bootstrap/bootstrap.less
-
-vendor/bootstrap/glyphicons-halflings-regular.eot
-
-vendor/bootstrap/glyphicons-halflings-regular.svg
-
-vendor/bootstrap/glyphicons-halflings-regular.ttf
-
-...
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-zaki.mughal
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:06:05 AM 04/01/2015&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-initial template&lt;br /&gt;
-
-
-
-
-
-Taken from Bootstrap example at &amp;lt;http://getbootstrap.com/examples/carousel/&amp;gt;.&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-&lt;!-- 4e644c1ac613fee9bf93a783fdbc30f306f8e874 --&gt;
 
 	</content>
 
