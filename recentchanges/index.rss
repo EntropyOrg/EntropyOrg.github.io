@@ -12,6 +12,58 @@
 	<dcterms:creator>zaki.mughal</dcterms:creator>
 
 
+	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_e4613f6f722b4e55f1392324621a25d18102174f/</guid>
+
+	<link>http://entropyorg.github.io/recentchanges/#change-e4613f6f722b4e55f1392324621a25d18102174f</link>
+
+	<pubDate>Mon, 01 Feb 2016 04:00:34 +0000</pubDate>
+	<dcterms:modified>2016-02-01T04:00:34Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-e4613f6f722b4e55f1392324621a25d18102174f&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+templates/page.tmpl
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:00:34 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Add base URL to carousel.css&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- e4613f6f722b4e55f1392324621a25d18102174f --&gt;
+</description>
+
+
+</item>
+<item>
+
+	<title>zaki.mughal: change to templates/page.tmpl on EntropyOrg</title>
+	<dcterms:creator>zaki.mughal</dcterms:creator>
+
+
 	<guid isPermaLink="false">http://entropyorg.github.io//recentchanges/change_d614a245acc10881f699ac7a33e12321ae00ab04/</guid>
 
 	<link>http://entropyorg.github.io/recentchanges/#change-d614a245acc10881f699ac7a33e12321ae00ab04</link>
