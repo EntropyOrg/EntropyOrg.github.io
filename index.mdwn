@@ -1,5 +1,3 @@
-<!-- Custom styles for this template -->
-<link href="style/carousel.css" rel="stylesheet">
 
 <!-- Carousel
 ================================================== -->

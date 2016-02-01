@@ -46,7 +46,7 @@ add_plugins:
 - autoindex
 - txt
 # plugins to disable
-disable_plugins: [ htmlscrubber ]
+disable_plugins: [ htmlscrubber, smiley ]
 # additional directory to search for template files
 templatedir: /usr/share/ikiwiki/templates
 # base wiki source location
