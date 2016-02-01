@@ -17,7 +17,75 @@
 
 <subtitle type="html">Entropy</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T05:08:35Z</updated>
+<updated>2016-02-01T05:20:49Z</updated>
+<entry>
+	<title>change to style/carousel.css on Entropy</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_0453c8ab2cacaa4f16dd289e0d7fa8cf507f4d29/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-0453c8ab2cacaa4f16dd289e0d7fa8cf507f4d29"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T05:20:49Z</updated>
+	<published>2016-02-01T05:20:49Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-0453c8ab2cacaa4f16dd289e0d7fa8cf507f4d29&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+style/carousel.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;05:20:49 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Change appearance of Bootstrap carousel controls&lt;br /&gt;
+
+
+
+
+
+- Remove the gradient from the background.&lt;br /&gt;
+
+
+
+- Make the chevrons darker.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 0453c8ab2cacaa4f16dd289e0d7fa8cf507f4d29 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to templates/page.tmpl on Entropy</title>
 
