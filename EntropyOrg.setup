@@ -41,7 +41,7 @@ rcs: git
 # plugins to add to the default configuration
 add_plugins:
 - goodstuff
-- theme
+#- theme
 - sidebar
 - autoindex
 - txt
