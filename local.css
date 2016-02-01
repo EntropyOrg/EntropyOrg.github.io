@@ -37,9 +37,15 @@ code {
 
 
 /* navbar-inverse applied to .selflink span instead of .active > a */
+.nav > li > .selflink {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+
 .navbar-nav > li > .selflink {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   line-height: 20px;
 }
 @media (min-width: 768px) {
@@ -47,12 +53,6 @@ code {
     padding-top: 15px;
     padding-bottom: 15px;
   }
-}
-
-.nav > li > .selflink {
-  position: relative;
-  display: block;
-  padding: 10px 15px;
 }
 
 .navbar-inverse .navbar-nav > li > .selflink {

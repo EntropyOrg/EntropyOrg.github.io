@@ -17,7 +17,205 @@
 
 <subtitle type="html">EntropyOrg</subtitle>
 <generator uri="http://ikiwiki.info/" version="3.20120202ubuntu1">ikiwiki</generator>
-<updated>2016-02-01T04:32:56Z</updated>
+<updated>2016-02-01T04:51:53Z</updated>
+<entry>
+	<title>change to local.css on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_bf8eb5522adeb5faa4386288e8a499d6b68557ad/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-bf8eb5522adeb5faa4386288e8a499d6b68557ad"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:51:53Z</updated>
+	<published>2016-02-01T04:51:53Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-bf8eb5522adeb5faa4386288e8a499d6b68557ad&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+local.css
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:51:53 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Change the order of the navbar .selflink padding&lt;br /&gt;
+
+
+
+
+
+This makes the later padding more important and fixes the size of the&lt;br /&gt;
+
+
+
+active link.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- bf8eb5522adeb5faa4386288e8a499d6b68557ad --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to templates/page.tmpl on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_f6cb46bcefd264205ec7256d703fa95c3e25d1aa/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-f6cb46bcefd264205ec7256d703fa95c3e25d1aa"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:35:30Z</updated>
+	<published>2016-02-01T04:35:30Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-f6cb46bcefd264205ec7256d703fa95c3e25d1aa&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+templates/page.tmpl
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:35:30 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Improve page template&lt;br /&gt;
+
+
+
+
+
+- Use a &amp;gt; between parent links in title&lt;br /&gt;
+
+
+
+- Change the Bootstrap navbar from fixed to static.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- f6cb46bcefd264205ec7256d703fa95c3e25d1aa --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/jquery/jquery.js on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_18b1b1008fcaa6d7b8467360dbcaeb23d7434f34/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-18b1b1008fcaa6d7b8467360dbcaeb23d7434f34"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2016-02-01T04:34:30Z</updated>
+	<published>2016-02-01T04:34:30Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-18b1b1008fcaa6d7b8467360dbcaeb23d7434f34&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+vendor/bootstrap/bootstrap.js
+
+vendor/bootstrap/bootstrap.less
+
+vendor/jquery/jquery.js
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;04:34:30 AM 02/01/2016&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+Update vendor code&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 18b1b1008fcaa6d7b8467360dbcaeb23d7434f34 --&gt;
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to node_modules/bower-installer/node_modules/bower/node_modules/mout/src on EntropyOrg</title>
 
@@ -2945,7 +3143,7 @@ remove the featurettes&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to bower.json image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png index.html style/carousel.css  on EntropyOrg</title>
+	<title>change to index.html on EntropyOrg</title>
 
 	<id>http://entropyorg.github.io//recentchanges/change_fa4714eef95dbfe11d31790b4470073c80b36301/</id>
 
@@ -2971,27 +3169,7 @@ remove the featurettes&lt;br /&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
-bower.json
-
-image/iperl-demo.png
-
-image/onion.png
-
-image/pdl-book-example.png
-
-image/pdl-graphics-gnuplot.pl
-
-image/pdl-graphics-gnuplot.svg
-
-image/project/bioperl.png
-
-image/project/pdl.png
-
 index.html
-
-style/carousel.css
-
-...
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -3016,6 +3194,160 @@ use images on frontpage&lt;br /&gt;
 &lt;/div&gt;
 
 &lt;!-- fa4714eef95dbfe11d31790b4470073c80b36301 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to image/iperl-demo.png image/onion.png image/pdl-book-example.png image/pdl-graphics-gnuplot.pl image/pdl-graphics-gnuplot.svg image/project/bioperl.png image/project/pdl.png on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_13f5f2fb2cab633ac9da4d787dc51526a6178ba2/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2015-05-13T22:26:02Z</updated>
+	<published>2015-05-13T22:26:02Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-13f5f2fb2cab633ac9da4d787dc51526a6178ba2&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+image/iperl-demo.png
+
+image/onion.png
+
+image/pdl-book-example.png
+
+image/pdl-graphics-gnuplot.pl
+
+image/pdl-graphics-gnuplot.svg
+
+image/project/bioperl.png
+
+image/project/pdl.png
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;10:26:02 PM 05/13/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add images&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 13f5f2fb2cab633ac9da4d787dc51526a6178ba2 --&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to bower.json index.html style/carousel.css tool/bower-run vendor/bootstrap/bootstrap.css vendor/bootstrap/bootstrap.js vendor/bootstrap/bootstrap.less vendor/bootstrap/glyphicons-halflings-regular.eot vendor/bootstrap/glyphicons-halflings-regular.svg vendor/bootstrap/glyphicons-halflings-regular.ttf  on EntropyOrg</title>
+
+	<id>http://entropyorg.github.io//recentchanges/change_4e644c1ac613fee9bf93a783fdbc30f306f8e874/</id>
+
+	<link href="http://entropyorg.github.io/recentchanges/#change-4e644c1ac613fee9bf93a783fdbc30f306f8e874"/>
+
+	<author><name>zaki.mughal</name></author>
+
+
+
+
+
+	<updated>2015-04-01T06:06:05Z</updated>
+	<published>2015-04-01T06:06:05Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-4e644c1ac613fee9bf93a783fdbc30f306f8e874&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+bower.json
+
+index.html
+
+style/carousel.css
+
+tool/bower-run
+
+vendor/bootstrap/bootstrap.css
+
+vendor/bootstrap/bootstrap.js
+
+vendor/bootstrap/bootstrap.less
+
+vendor/bootstrap/glyphicons-halflings-regular.eot
+
+vendor/bootstrap/glyphicons-halflings-regular.svg
+
+vendor/bootstrap/glyphicons-halflings-regular.ttf
+
+...
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+zaki.mughal
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;06:06:05 AM 04/01/2015&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial template&lt;br /&gt;
+
+
+
+
+
+Taken from Bootstrap example at &amp;lt;http://getbootstrap.com/examples/carousel/&amp;gt;.&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+&lt;!-- 4e644c1ac613fee9bf93a783fdbc30f306f8e874 --&gt;
 
 	</content>
 
