@@ -3,5 +3,16 @@
 # Perl 5
 
 - Statistics::NiceR
+- Data::Frame
 - Devel::IPerl
+- Data::TestImage
+- Image::Leptonica
+- Unicode::Number
+- Math::Matlab::Engine
 
+
+# In progress
+
+- Image::ITK
+- Graphics::VTK
+- Bio::Physio::WFDB
